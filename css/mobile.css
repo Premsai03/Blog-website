@@ -1,0 +1,35 @@
+@media screen and (max-width: 950px) {
+    .hero-left{
+        margin-top: -100px;
+    }
+    .hero-text1{
+        font-size: 2.2em;
+    }
+    .hero-text2{
+        font-size: 1em;
+    }
+    .cta{
+        width: 13vw;
+        font-size: 14px;
+    }
+    .f-post-text{
+        font-size: 1.4em;
+        padding-top: 40px;
+    }
+    /* .f-posts{
+        margin-top: -50px;
+    } */
+    .posts{
+        margin-top: 40px;
+    }
+    .post1{
+        height: 80vh;
+    }
+    .post1-text h3{
+        font-size: 1.2rem;
+    }
+    .post1-text a button{
+        font-size: 1rem;
+    }
+}
+
