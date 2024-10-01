@@ -136,6 +136,7 @@ body{
 .comments h2{
   color: var(--text-color);
   font-family: var(--font2);
+  margin-left: 1rem;
 }
 .comment {
   background-color: rgba(255, 255, 255, 0.249);
