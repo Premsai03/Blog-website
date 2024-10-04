@@ -29,7 +29,11 @@
     <!-- Form -->
     <div class="contact-form max-width-5 m-auto">
         <h3>Get in touch</h3>
-        <form action="">
+        
+        <!-- Used web3forms to submit the contact form -->
+        <form action="https://api.web3forms.com/submit" method="POST">
+            <input type="hidden" name="access_key" value="5838d4bb-7abf-4380-b418-84ea57dff1a6">
+            
             <div class="form-content">
                 <input type="text" placeholder="Enter Your Name" required>
             </div>
